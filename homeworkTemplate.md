@@ -1,4 +1,4 @@
-##Name, GitHub repo URL
+##Dan Symonds, [https://github.com/desymond/LastnameBioinf]
 
 ##Assignment name
 
