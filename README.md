@@ -1,9 +1,6 @@
 ForkMe
 ======
-
-A group of simple scripts and documents to practice forking.
-
-Copy `homeworkTemplate.md` and rename in the following format: `LastnameWkX.md`, where Lastname is your last name and X is the week number of class.
+This is a homework file for Bioinformatics Lab. 
 
 Scoring and feedback will be provided using the following table, which corresponds to general rubric guidelines.
 
