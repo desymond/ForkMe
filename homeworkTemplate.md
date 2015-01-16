@@ -1,4 +1,4 @@
-##Dan Symonds, [https://github.com/desymond/LastnameBioinf]
+##Dan Symonds, https://github.com/desymond/LastnameBioinf
 
 ##Assignment name
 
